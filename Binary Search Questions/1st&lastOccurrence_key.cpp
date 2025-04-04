@@ -2,6 +2,7 @@
 using namespace std;
 
 //1st and last position of an element in sorted array
+// Binary Search Algorithmaa
 
 // to find first occurrence(index) of key
 int firstOccurrence(int arr[],int n,int key){
